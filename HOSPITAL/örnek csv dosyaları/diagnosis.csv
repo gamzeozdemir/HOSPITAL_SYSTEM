@@ -1,0 +1,6 @@
+PName,PAddress,PBirthDate,PPhone,PGen,BloodGroup,MajorDisease,Email,NationalID,AssignedDoctorID
+Ahmet Yýlmaz,Ýstanbul,1990-01-01,5551112233,Male,O+,Cardiology,ahmet.yilmaz@gmail.com,11111111111,1022
+Ayþe Kaya,Ankara,1985-05-10,5552223344,Female,A-,Neurology,ayse.kaya@gmail.com,22222222222,1023
+Mehmet Öz,Ýzmir,1980-03-15,5553334455,Male,B+,Orthopedics,mehmet.oz@gmail.com,33333333333,1024
+Zeynep Þahin,Bursa,1995-07-20,5554445566,Female,AB-,Pediatrics,zeynep.sahin@gmail.com,44444444444,1025
+Cem Karaca,Antalya,1992-09-25,5555556677,Male,O-,Dermatology,cem.karaca@gmail.com,55555555555,1026
